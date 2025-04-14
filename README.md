@@ -24,8 +24,8 @@ The project objective was to design, configure, and implement a virtualized Wind
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/Om0b4j8" height="80%" width="80%" alt="AD DS via VM"/>
+Launch the utility:Oracle VirtualBox <br/>
+<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1744640286/Screenshot_2025-04-12_124935_tu5tk2.png" height="80%" width="80%" alt="AD DS via VM"/>
 <br />
 <br />
 Domain Controller Created:  <br/>
@@ -153,7 +153,7 @@ Restart and login with domain password that was created.
 <img src="https://imgur.com/31daMFU" height="80%" width="80%" alt="AD DS via VM"/>  
 <br />
 <br />
-<img src="https://imgur.com/9SSP6cv" height="80%" width="80%" alt="AD DS via VM"/>  
+<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1744640287/Screenshot_2025-04-12_191246_gnfgra.png" height="80%" width="80%" alt="AD DS via VM"/>  
 </p>
 
 <!--
